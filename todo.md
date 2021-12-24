@@ -1,0 +1,5 @@
+- create todo.md
+- create sh files entryPoint
+- create django project
+- change url handler  
+- create django project
