@@ -1,5 +1,6 @@
 - create todo.md
 - create sh files entryPoint
 - create django project
-- change url handler  
-- create django project
+- change url handler
+- create Docker file and configure postgress run django
+- use composer to handle permanently data

@@ -30,5 +30,5 @@ fi
 python3 -m venv env
 
 # Install project dev requirements
-pip3 install --no-cache-dir -r requirements/dev.txt
+pip3 install -r requirements/dev.txt
 
