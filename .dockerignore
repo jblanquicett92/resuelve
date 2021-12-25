@@ -1,0 +1,14 @@
+venv
+.coverage
+__pycache__
+**/__pycache__
+*.pyc
+.git
+.cache
+.pytest_cache
+.vscode
+docker-compose.yml
+htmlcov
+scripts
+**/data
+**/data2
