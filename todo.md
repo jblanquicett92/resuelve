@@ -1,6 +1,12 @@
-- create todo.md
-- create sh files entryPoint
-- create django project
-- change url handler
-- create Docker file and configure postgress run django
-- use composer to handle permanently data
+- [DONE] create todo.md
+- [DONE] create sh files entryPoint
+- [DONE] create django project
+- [DONE] change url handler
+- [DONE] create Docker file and configure postgress run django
+- [DONE] use composer to handle permanently data
+- [DONE] analyze problem and design solve in google spreadsheet
+- [DONE] create models in uml UMBRELLO
+- [InProgress] create models django
+- [InProgress] use google colab to handle logic
+- [Todo] create unit test (Pytest)
+- [Todo] tdd flow
