@@ -6,7 +6,7 @@
 - [DONE] use composer to handle permanently data
 - [DONE] analyze problem and design solve in google spreadsheet
 - [DONE] create models in uml UMBRELLO
-- [InProgress] create models django
-- [InProgress] use google colab to handle logic
+- [DONE] create models django
+- [DONE] use google colab to handle logic
 - [Todo] create unit test (Pytest)
 - [Todo] tdd flow
