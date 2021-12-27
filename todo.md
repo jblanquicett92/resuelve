@@ -8,5 +8,5 @@
 - [DONE] create models in uml UMBRELLO
 - [DONE] create models django
 - [DONE] use google colab to handle logic
-- [Todo] create unit test (Pytest)
+- [DONE] create unit test (Pytest)
 - [Todo] tdd flow
