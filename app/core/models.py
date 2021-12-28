@@ -24,7 +24,7 @@ class Player(models.Model):
     goal_scored = models.IntegerField()
     salary = models.FloatField()
     bonus = models.FloatField()
-    complete_salary = models.FloatField()
+    complete_salary = models.FloatField(null=True)
     player_level = models.ForeignKey(Player_Level, on_delete=models.SET_NULL, null=True, related_name='player_level')
     team = models.ForeignKey(Team, on_delete=models.SET_NULL, null=True, related_name='team')
 
